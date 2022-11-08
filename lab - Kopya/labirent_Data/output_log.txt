@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6570 (ID=0x6759)
+    Vendor:   ATI
+    VRAM:     2036 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.517 seconds
+Platform assembly: C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\uzeyi\OneDrive\Masaüstü\lab - Kopya\labirent_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'light_sound') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'karakter') is missing!
+ 
+(Filename:  Line: 1744)
+
+UnloadTime: 1.613700 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 14d0 -> priority: 1 
+  Thread -> id: a8c -> priority: 1 
+  Thread -> id: eb0 -> priority: 1 
+  Thread -> id: 3ddc -> priority: 1 
